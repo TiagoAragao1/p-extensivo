@@ -1,2 +1,2 @@
-# p-extensivo
+# p-extensionista
 Nosso projeto de extensão
